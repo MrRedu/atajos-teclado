@@ -4,7 +4,7 @@
 
 Pequeña colección de atajos que utilizo frecuentemente.
 
-Todos estos atajos están dirigidos al sistema operativo de Windows, junto al teclado de latinoaméricano. <br>
+Todos estos atajos están dirigidos al sistema operativo de Windows, junto al teclado latinoaméricano. <br>
 Algunos podrían ser bastante similares o idénticos en otros idiomas/teclados/sistemas operativos.
 
 ## Atajos VSCode (editores en general)
