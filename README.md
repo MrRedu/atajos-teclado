@@ -1,10 +1,11 @@
 # Atajos de teclado para un desarrollo eficaz
 
-### [VSCode]() + [Emmet]()
+### [VSCode](https://github.com/MrRedu/atajos-teclado#atajos-vscode-editores-en-general) + [Emmet](https://github.com/MrRedu/atajos-teclado#atajos-emmet)
 
 Pequeña colección de atajos que utilizo frecuentemente.
 
-Todos estos atajos están dirigidos al sistema operativo de Windows.
+Todos estos atajos están dirigidos al sistema operativo de Windows, junto al teclado de latinoaméricano. <br>
+Algunos podrían ser bastante similares o idénticos en otros idiomas/teclados/sistemas operativos.
 
 ## Atajos VSCode (editores en general)
 |        Acción                                                 |       Atajo                       |
