@@ -17,9 +17,12 @@ Algunos podrían ser bastante similares o idénticos en otros idiomas/teclados/s
 | Ir al principio o final de una palabra                        |      `Ctrl` + `➡` o `⬅`          |
 | Seleccionar palabra (o el restante desde el punto activo)     |   `Shift` + `Ctrl` + `➡` o `⬅`   |
 | Borrar (cortar) línea activa                                  |        `Ctrl` + `X`               |
-| Mover línea activa                                            |        `Alt` + `⬆` o `⬇`          |
+| Mover código seleccionado (en su defecto, la línea activa)    |        `Alt` + `⬆` o `⬇`          |
 | Duplicar línea activa                                         |    `Alt` + `Shift` + `⬆` o `⬇`    |
 | Identar el código                                             |       `Alt` + `Shift` + `F`       |
+| Comentar código seleccionado (en su defecto, la línea activa) |          `Ctrl` + `}`             |
+| Deshacer el último cambio                                     |          `Ctrl` + `Z`             |
+| Rehacer el último cambio (el antagonista al atajo anterior)   |          `Ctrl` + `Y`             |
 | | |
 | Cambiar entre pestañas abiertas                               |        `Alt` + `➡` o `⬅`         |
 | Buscar archivos de la carpeta                                 |        `Ctrl` + `P`               |
