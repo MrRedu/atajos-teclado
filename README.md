@@ -68,6 +68,12 @@ nav.navBar#navBar>ul.list-items>li*5.item>a[href='#' role='button' id='button-$'
 
 <br>
 
+  *⚠ Cabe mencionar, que para utilizar Emmet, solo debemos presionar la tecla `[Enter]` o `[Tab]`, justo cuando el plugin de Emmet esté activo, como se muestra en la imagen:*
+
+  ![emmet-abbreviation](https://github.com/MrRedu/atajos-teclado/assets/73679190/b3772f6a-5d1a-4562-851e-bcae5b728af6)
+
+<br>
+
 De esta manera, es como podemos construir componentes de HTML en una sola línea de código. <br>
 Este fue un muy pequeño ejemplo de lo que se puede llegar a hacer con el plugin de Emmet.
 También existen atajos para CSS, si te interesa seguir aprendiendo más atajos, te invito a que visites la [CheatSheet *(hoja de trucos)* de Emmet](https://docs.emmet.io/cheat-sheet/).
