@@ -65,6 +65,6 @@ nav.navBar#navBar>ul.list-items>li*5.item>a[href='#' role='button' id='button-$'
 
 <br>
 
-De esta manera, es como podemos construir componentes de HTML en una sola línea de código.
-Este fue un muy pequeño ejemplo de lo que se puede llegar a hacer con el pluging de Emmet.
+De esta manera, es como podemos construir componentes de HTML en una sola línea de código. <br>
+Este fue un muy pequeño ejemplo de lo que se puede llegar a hacer con el plugin de Emmet.
 También existen atajos para CSS, si te interesa seguir aprendiendo más atajos, te invito a que visites la [CheatSheet *(hoja de trucos)* de Emmet](https://docs.emmet.io/cheat-sheet/).
