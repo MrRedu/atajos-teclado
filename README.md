@@ -37,12 +37,12 @@ En esta práctica/ejemplo aprenderemos lo más rápido posible, cómo se traduci
 nav.navBar#navBar>ul.list-items>li*5.item>a[href='#' role='button' id='button-$']{Text $}
 ```
 
-- El punto `.` se utiliza para ponerle clase al elemento que le antecede. En caso que no exista dicho elemento, se interpretará como un `<div>`
+- El punto `.` se utiliza para ponerle clase al elemento que le precede. En caso que no exista dicho elemento, se interpretará como un `<div>`
 
   ![div](https://github.com/MrRedu/atajos-teclado/assets/73679190/9c77ab41-27ab-447f-8e14-79b2ff08006b)
   ![nav navBar](https://github.com/MrRedu/atajos-teclado/assets/73679190/9c1b43b2-83aa-4a57-97bd-f8af1012256b)
 
-- El numeral/almohadilla/gato `#` se utiliza para añadir un ID (identificador único) al elemento que le antecede.
+- El numeral/almohadilla/gato `#` se utiliza para añadir un ID (identificador único) al elemento que le precede.
 
   ![nav navBar#navBar](https://github.com/MrRedu/atajos-teclado/assets/73679190/137a4ae9-1c00-4621-b208-3bb502c7e298)
   
@@ -50,7 +50,7 @@ nav.navBar#navBar>ul.list-items>li*5.item>a[href='#' role='button' id='button-$'
 
   ![nav navBar#navBar-ul](https://github.com/MrRedu/atajos-teclado/assets/73679190/d190a3fc-92ab-4d9e-bc40-d0e9f1e921ab)
   
-- El símbolo de la multiplicación `*` se utiliza para multiplicar por la cantidad que se indique, el elemento que le antecede.
+- El símbolo de la multiplicación `*` se utiliza para multiplicar por la cantidad que se indique, el elemento que le precede.
 
   ![nav navBar#navBar-ul-li5](https://github.com/MrRedu/atajos-teclado/assets/73679190/c87ce811-482e-441a-a50e-f4017c29a2c5)
 
@@ -62,7 +62,7 @@ nav.navBar#navBar>ul.list-items>li*5.item>a[href='#' role='button' id='button-$'
 
   ![nav navBar#navBar-ul-li5-a -$](https://github.com/MrRedu/atajos-teclado/assets/73679190/5c67fcc5-cbcc-4ae4-a527-04a77a483d3d)
 
-- Las llaves `{ }` se utilizan para ingresarle texto al elemento que le antecede.
+- Las llaves `{ }` se utilizan para ingresarle texto al elemento que le precede.
 
   ![nav navBar#navBar-ul-li5-a -$-{}](https://github.com/MrRedu/atajos-teclado/assets/73679190/3bdfea9a-a277-4e8e-9f8d-eb902aa6aea9)
 
