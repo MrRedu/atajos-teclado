@@ -74,6 +74,35 @@ nav.navBar#navBar>ul.list-items>li*5.item>a[href='#' role='button' id='button-$'
 
 <br>
 
+### ✅ Plus 
+Para elementos compuestos de varias partes del mismo nivel, podemos utilizar los paréntesis `()` y el signo de suma `+`. <br>
+Todo se entiende mejor en imágenes así que veamos:
+
+- Con el signo de suma `+` agregamos hermanos (elementos al mismo nivel)
+
+  ![+](https://github.com/MrRedu/atajos-teclado/assets/73679190/ecfcf7ae-4e27-458c-bce8-7246abda98b6)
+  
+- Con los paréntesis, agregamos grupos al mismo nivel
+
+  ![groups](https://github.com/MrRedu/atajos-teclado/assets/73679190/c6c02a3f-15b5-489d-ba7a-2918872b62ad)
+
+*Como podemos ver, son dos características que van muy de la mano. Se complementan a un 100%*
+
+
+### Texto
+Para crear textos predeterminados (que sirva para rellenar espacios, como si de un borrador se tratase) con solo escribir `lorem`, obtendremos lo siguiente: <br>
+![lorem](https://github.com/MrRedu/atajos-teclado/assets/73679190/e5d3a76f-a938-45c4-aa86-2fdc13131b15) <br>
+Una de las caracteristicas de este texto, es que su longitud de palabras y/o caracteres es al azar.
+
+*¿Cómo podríamos determinar la longitud de la cadena de texto en caso de necesitar un texto predeterminado para un título? ¿o simplemento un texto muy corto?*
+
+Muy fácil, de la siguiente manera: `lorem5` <br>
+![lorem5](https://github.com/MrRedu/atajos-teclado/assets/73679190/71546b1f-5cde-4c5e-9a5b-60a628407269) <br>
+Determinando con el número de la longitud que queremos después de la palabra `lorem` podemos establecer nuestra longitud.
+
+
+<br>
+
 De esta manera, es como podemos construir componentes de HTML en una sola línea de código. <br>
 Este fue un muy pequeño ejemplo de lo que se puede llegar a hacer con el plugin de Emmet.
 También existen atajos para CSS, si te interesa seguir aprendiendo más atajos, te invito a que visites la [CheatSheet *(hoja de trucos)* de Emmet](https://docs.emmet.io/cheat-sheet/).
