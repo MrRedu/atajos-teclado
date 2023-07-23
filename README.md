@@ -18,7 +18,7 @@ Algunos podrían ser bastante similares o idénticos en otros idiomas/teclados/s
 | Seleccionar palabra (o el restante desde el punto activo)     |   `Shift` + `Ctrl` + `➡` o `⬅`   |
 | Borrar (cortar) línea activa                                  |        `Ctrl` + `X`               |
 | Mover código seleccionado (en su defecto, la línea activa)    |        `Alt` + `⬆` o `⬇`          |
-| Duplicar línea activa                                         |    `Alt` + `Shift` + `⬆` o `⬇`    |
+| Duplicar código seleccionado (en su defecto, la línea activa) |    `Alt` + `Shift` + `⬆` o `⬇`    |
 | Identar el código                                             |       `Alt` + `Shift` + `F`       |
 | Comentar código seleccionado (en su defecto, la línea activa) |          `Ctrl` + `}`             |
 | Deshacer el último cambio                                     |          `Ctrl` + `Z`             |
